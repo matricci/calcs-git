@@ -1,1 +1,1 @@
-Scientific calculator, python verson works better, pascal one works just fine.
+Scientific calculator, python version works better, pascal one works just fine.
